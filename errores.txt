@@ -1,0 +1,2 @@
+Error: no se ha encontrado o cargado la clase principal Game
+Causado por: java.lang.ClassNotFoundException: Game
